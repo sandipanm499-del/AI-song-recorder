@@ -1,0 +1,7 @@
+{
+  "name": "AI Song Recorder",
+  "description": "A web application to record your singing, generate lyrics with AI, and create a vocal guide to help you practice. Record, create, and perfect your next song.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
